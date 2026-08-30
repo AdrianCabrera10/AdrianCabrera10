@@ -1,70 +1,95 @@
-[![](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20TecNM%20Cuautla&descSize=22&descColor=FFFFFF&descAlignY=65)](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20TecNM%20Cuautla&descSize=22&descColor=FFFFFF&descAlignY=65)
+[![](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&fontFamily=Poppins&animation=fadeIn&fontAlignY=40&desc=ing.%20sistemas%20computacionales&descSize=22&descColor=FFFFFF&descAlignY=65)](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&fontFamily=Poppins&animation=fadeIn&fontAlignY=40&desc=ing.%20sistemas%20computacionales&descSize=22&descColor=FFFFFF&descAlignY=65)
 
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=A371F7\&center=true\&vCenter=true\&width=800\&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollo+M%C3%B3vil+con+Flutter;Python+%7C+Data+%7C+Business+Intelligence;Automatizaci%C3%B3n+%7C+IA+%7C+Soluciones+Digitales)](https://git.io/typing-svg)
+
+</p>
 
 [![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 📌 Sobre mí
 
-- Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Cuautla, Morelos, México.
-- Construyo soluciones prácticas: apps móviles, pipelines de datos y automatizaciones para negocios pequeños.
-- Administro Casita Colonial, una renta vacacional en Tepoztlán, donde llevo yo mismo el sitio web, la red y las cámaras de seguridad.
+* Estudiante de Ingeniería en Sistemas Computacionales 
+* Construyo soluciones prácticas: aplicaciones móviles, sistemas web, de datos y automatizaciones para negocios.
+* Me interesa combinar desarrollo de software, análisis de datos e inteligencia artificial para crear soluciones útiles.
+* Administro una renta vacacional en Tepoztlán, donde llevo yo mismo el sitio web, la red.
 
-## 🧠 Mis áreas de enfoque
+##  ¿Qué hago?
 
-- Desarrollo Full Stack (Python · Flutter)
-- Análisis de datos y Business Intelligence
-- Automatización e integración de IA
+* 📱 Desarrollo de aplicaciones móviles con **Flutter**
+* 🌐 Desarrollo de sitios y aplicaciones web
+* ⚙️ Desarrollo Backend y APIs
+* 🔥 Aplicaciones con **Firebase**
+* 🐍 Automatización y procesamiento de datos con **Python**
+* 📊 Análisis de datos y **Business Intelligence**
+* 🤖 Integración de herramientas de **IA**
+* 🗄️ Diseño y administración de bases de datos
+* 🖥️ Configuración de servidores y sistemas Linux
+* 💡 Desarrollo de soluciones digitales para pequeños negocios
 
-</div>
+---
 
-## 🛠️ Lenguajes y herramientas
+## 🛠️ Tecnologías
 
-<div align="center">
+###  Lenguajes
 
-**Lenguajes de programación**
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
+###  Frontend & Mobile
 
-<br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+</p>
 
-**Frontend & Móvil**
+###  Backend & Bases de datos
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
+</p>
 
-<br><br>
+###  Datos & BI
 
-**Backend & Datos**
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-<img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
+###  Infraestructura
 
-<br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="50"/>
+</p>
 
-**Redes & Infraestructura**
+###  Herramientas
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+</p>
 
-<br><br>
+<br>
 
-**Herramientas**
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+##  My Programming Languages
 
 </div>
 
@@ -76,28 +101,88 @@
   </a>
 </p>
 
-## 🔗 Conecta conmigo
+---
 
-<div align="center">
-
-<a href="https://www.facebook.com/adrian.cabrera.89857/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" height="38" alt="Facebook"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/adrian.cr_404/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="mailto:21680047@cuautla.tecnm.mx"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" height="38" alt="Correo"/></a>
-
-</div>
+##  Proyectos destacados
 
 <br>
 
-## 🐍 Mi actividad en contribuciones
+###     Sistema de Control y Monitoreo de Camiones
 
-<div align="center">
+Sistema desarrollado para la gestión y monitoreo de operaciones de una empresa de reciclaje.
 
-![github-snake](https://raw.githubusercontent.com/AdrianCabrera10/AdrianCabrera10/output/github-contribution-grid-snake-dark.svg)
+**Tecnologías:**
 
-</div>
+`Flutter` · `Firebase` · `Firestore` · `Authentication` · `Storage`
 
-<div align="center">
+Incluye aplicaciones móviles para operadores y un panel web administrativo para consultar información y monitorear operaciones en tiempo real.
 
-[![Bottom Line](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<br>
 
-</div>
+###      Casita Colonial Tepoztlán
+
+Desarrollo y administración de la presencia digital de un hospedaje en Tepoztlán.
+
+**Tecnologías:**
+
+`HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `SEO`
+
+Incluye sitio web, dominio personalizado, posicionamiento y herramientas digitales para facilitar la promoción del hospedaje.
+
+<br>
+
+###       Soluciones digitales
+
+Desarrollo de soluciones digitales para pequeños negocios, incluyendo:
+
+* 🌐 Sitios web
+* 📱 Aplicaciones
+* 📋 Menús digitales
+* 🔗 Códigos QR
+* ⚙️ Automatizaciones
+* 📊 Sistemas de gestión
+* 🤖 Integraciones con IA
+
+---
+
+##  Actividad
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AdrianCabrera10/AdrianCabrera10/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+
+<a href="https://github.com/AdrianCabrera10">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/adrian.cabrera.89857/">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/adrian.cr_404/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:21680047@cuautla.tecnm.mx">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### "Construyendo soluciones digitales para problemas reales."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:000000&height=120&section=footer"/>
+
+</p>
