@@ -80,7 +80,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
 </p>
