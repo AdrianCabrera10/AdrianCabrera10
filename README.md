@@ -64,9 +64,11 @@
 
 <br>
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCabrera10&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true)](https://github.com/AdrianCabrera10)
+<p align="center">
+  <a href="https://github.com/AdrianCabrera10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=generosomm&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 </div>
 
