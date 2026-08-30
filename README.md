@@ -167,7 +167,9 @@ Desarrollo de soluciones digitales para pequeños negocios, incluyendo:
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=21680047@cuautla.tecnm.mx" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" height="38" alt="Correo"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=21680047@cuautla.tecnm.mx" target="_blank">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
