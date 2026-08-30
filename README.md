@@ -159,10 +159,6 @@ Desarrollo de soluciones digitales para pequeños negocios, incluyendo:
 
 <p align="center">
 
-<a href="https://github.com/AdrianCabrera10">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.facebook.com/adrian.cabrera.89857/">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
 </a>&nbsp;&nbsp;&nbsp;
@@ -171,9 +167,7 @@ Desarrollo de soluciones digitales para pequeños negocios, incluyendo:
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:21680047@cuautla.tecnm.mx">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
-</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=21680047@cuautla.tecnm.mx" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" height="38" alt="Correo"/></a>
 
 </p>
 
