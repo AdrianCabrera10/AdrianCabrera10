@@ -14,8 +14,6 @@
 - Análisis de datos y Business Intelligence
 - Automatización e integración de IA
 
-## 📊 GitHub Stats & Trophies
-
 <div align="center">
 
 </div>
