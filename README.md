@@ -24,43 +24,43 @@
 
 ### Lenguajes de programación
 
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-[![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 
 ### Frontend & Móvil
 
-[![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 
 ### Backend & Datos
 
-[![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
-[![Power BI](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/powerbi.svg)](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/powerbi.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/powerbi.svg" width="40" height="40" alt="Power BI"/>
 
 ### Redes & Infraestructura
 
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-[![Raspberry Pi](https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/>
 
 ### Herramientas
 
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
-[![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO&langs_count=8&layout=compact&theme=dark&border_radius=10)](https://github.com/TU_USUARIO)
 
 ## 🔗 Conecta conmigo
 
-[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/TU_USUARIO/)
-[![Gmail](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg)](mailto:tucorreo@ejemplo.com)
-[![Website](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg)](https://tusitio.com)
-[![WhatsApp](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Whatsapp.svg)](https://wa.me/52TUNUMERO)
+<a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" height="38" alt="LinkedIn"/></a>
+<a href="mailto:tucorreo@ejemplo.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" height="38" alt="Gmail"/></a>
+<a href="https://tusitio.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" height="38" alt="Website"/></a>
+<a href="https://wa.me/52TUNUMERO"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Whatsapp.svg" width="38" height="38" alt="WhatsApp"/></a>
 
 ![github-snake](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg)
 
