@@ -1,6 +1,5 @@
 [![](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20TecNM%20Cuautla&descSize=22&descColor=FFFFFF&descAlignY=65)](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20TecNM%20Cuautla&descSize=22&descColor=FFFFFF&descAlignY=65)
 
-[![Vistas del perfil de Adrian](https://komarev.com/ghpvc/?username=AdrianCabrera10&label=Profile%20views&color=00FFFF&style=flat-square)](https://github.com/AdrianCabrera10)
 
 [![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
@@ -15,12 +14,6 @@
 - Desarrollo Full Stack (Python · Flutter)
 - Análisis de datos y Business Intelligence
 - Automatización e integración de IA
-
-## 📊 GitHub Stats & Trophies
-
-<div align="center">
-
-[![Trofeos de Adrian](https://github-profile-trophy.vercel.app/?username=AdrianCabrera10&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400)](https://github.com/AdrianCabrera10)
 
 </div>
 
@@ -50,7 +43,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase"/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI"/>
+<img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
 
 <br><br>
 
@@ -71,11 +64,11 @@
 
 <br>
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCabrera10&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true)](https://github.com/AdrianCabrera10)
-
-</div>
+<p align="center">
+  <a href="https://github.com/AdrianCabrera10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=generosomm&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ## 🔗 Conecta conmigo
 
