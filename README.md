@@ -1,5 +1,6 @@
 [![](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20TecNM%20Cuautla&descSize=22&descColor=FFFFFF&descAlignY=65)](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Adrian%20Cabrera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20TecNM%20Cuautla&descSize=22&descColor=FFFFFF&descAlignY=65)
 
+
 [![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 📌 Sobre mí
@@ -13,8 +14,6 @@
 - Desarrollo Full Stack (Python · Flutter)
 - Análisis de datos y Business Intelligence
 - Automatización e integración de IA
-
-<div align="center">
 
 </div>
 
@@ -67,7 +66,7 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdrianCabrera10&langs_count=8&layout=compact&theme=dark&border_radius=10)](https://github.com/AdrianCabrera10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCabrera10&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true)](https://github.com/AdrianCabrera10)
 
 </div>
 
@@ -75,6 +74,7 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" height="38" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:tucorreo@ejemplo.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" height="38" alt="Gmail"/></a>&nbsp;&nbsp;
 <a href="https://tusitio.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" height="38" alt="Website"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/52TUNUMERO"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Whatsapp.svg" width="38" height="38" alt="WhatsApp"/></a>
@@ -83,7 +83,13 @@
 
 <br>
 
+## 🐍 Mi actividad en contribuciones
+
+<div align="center">
+
 ![github-snake](https://raw.githubusercontent.com/AdrianCabrera10/AdrianCabrera10/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <div align="center">
 
