@@ -83,7 +83,7 @@
 
 <br>
 
-![github-snake](https://raw.githubusercontent.com/AdrianCabrera10/AdrianCabrera10/output/github-contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/AdrianCabrera10/AdrianCabrera10/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
